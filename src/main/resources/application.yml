@@ -1,0 +1,13 @@
+
+# 设置日志显示级别
+logging:
+  level:
+      root: info
+      com:
+         itheima:
+           mybatis_plus_springboot:
+             mapper: debug
+
+
+
+
